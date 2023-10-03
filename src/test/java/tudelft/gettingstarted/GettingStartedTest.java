@@ -15,13 +15,13 @@ public class GettingStartedTest {
 
 //    @Test
 //    public void addFiveToZero() {
-//        int result = new GettingStarted().addFive(???);
-//        Assertions.assertEquals(???, result);
+//        int result = new GettingStarted().addFive(0);
+//        Assertions.assertEquals(expected:5,result);
 //    }
 //
 //    @Test
 //    public void addFiveToMinus20() {
-//        int result = new GettingStarted().addFive(???);
-//        Assertions.assertEquals(????,result);
+//        int result = new GettingStarted().addFive(-20);
+//        Assertions.assertEquals(expected:-15,result);
 //    }
 }
